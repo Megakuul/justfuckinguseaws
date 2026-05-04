@@ -118,7 +118,7 @@
   </div>
   <p>* the underlying platform is ALWAYS available / reliable</p>
 
-  <blockquote class="flex flex-col items-start gap-8 max-w-[1000px] my-32">
+  <blockquote class="flex flex-col items-start mx-10 gap-8 max-w-[1000px] my-32">
     <p class="text-5xl font-semibold text-start text-slate-950/80">
       We just need to achieve communism before Cost Explorer synchronizes.
     </p>
